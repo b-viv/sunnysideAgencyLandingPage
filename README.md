@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Link](https://your-live-site-url.com](https://b-viv.github.io/sunnysideAgencyLandingPage/))
+- Solution URL: [Link](https://your-solution-url.com](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-flexbox-and-grid-Ln2Hf1vqLF))
+- Live Site URL: [Link](https://b-viv.github.io/sunnysideAgencyLandingPage/)
 
 ## My process
 
